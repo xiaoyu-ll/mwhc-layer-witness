@@ -1,0 +1,5 @@
+/bin/
+/case_studies/output/
+__pycache__/
+*.pyc
+.DS_Store

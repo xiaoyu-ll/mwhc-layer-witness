@@ -1,0 +1,110 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "original_id": "Evelyn Jefferson",
+      "name": "Evelyn Jefferson"
+    },
+    {
+      "id": 1,
+      "original_id": "Laura Mandeville",
+      "name": "Laura Mandeville"
+    },
+    {
+      "id": 2,
+      "original_id": "Theresa Anderson",
+      "name": "Theresa Anderson"
+    },
+    {
+      "id": 3,
+      "original_id": "Brenda Rogers",
+      "name": "Brenda Rogers"
+    },
+    {
+      "id": 4,
+      "original_id": "Charlotte McDowd",
+      "name": "Charlotte McDowd"
+    },
+    {
+      "id": 5,
+      "original_id": "Frances Anderson",
+      "name": "Frances Anderson"
+    },
+    {
+      "id": 6,
+      "original_id": "Eleanor Nye",
+      "name": "Eleanor Nye"
+    },
+    {
+      "id": 7,
+      "original_id": "Pearl Oglethorpe",
+      "name": "Pearl Oglethorpe"
+    },
+    {
+      "id": 8,
+      "original_id": "Ruth DeSand",
+      "name": "Ruth DeSand"
+    },
+    {
+      "id": 9,
+      "original_id": "Verne Sanderson",
+      "name": "Verne Sanderson"
+    },
+    {
+      "id": 10,
+      "original_id": "Myra Liddel",
+      "name": "Myra Liddel"
+    },
+    {
+      "id": 11,
+      "original_id": "Katherina Rogers",
+      "name": "Katherina Rogers"
+    },
+    {
+      "id": 12,
+      "original_id": "Sylvia Avondale",
+      "name": "Sylvia Avondale"
+    },
+    {
+      "id": 13,
+      "original_id": "Nora Fayette",
+      "name": "Nora Fayette"
+    },
+    {
+      "id": 14,
+      "original_id": "Helen Lloyd",
+      "name": "Helen Lloyd"
+    },
+    {
+      "id": 15,
+      "original_id": "Dorothy Murchison",
+      "name": "Dorothy Murchison"
+    },
+    {
+      "id": 16,
+      "original_id": "Olivia Carleton",
+      "name": "Olivia Carleton"
+    },
+    {
+      "id": 17,
+      "original_id": "Flora Price",
+      "name": "Flora Price"
+    }
+  ],
+  "source_edge_to_hgr_edge": {
+    "E1": 5,
+    "E2": 0,
+    "E3": 1,
+    "E4": 6,
+    "E5": 2,
+    "E6": 4,
+    "E7": 8,
+    "E8": 3,
+    "E9": 7,
+    "E10": 10,
+    "E11": 12,
+    "E12": 9,
+    "E13": 11,
+    "E14": 11
+  }
+}
